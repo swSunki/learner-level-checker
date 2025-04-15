@@ -21,7 +21,7 @@
 ## 🚀 How to Use
 
 1. Go to the app:
-   [https://yourname-learner-level-checker.streamlit.app](https://yourname-learner-level-checker.streamlit.app)
+   [https://swfact-learner-level-checker.streamlit.app/](https://swfact-learner-level-checker.streamlit.app/)
 
 2. Upload your CSV file.
 
