@@ -2,8 +2,8 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="📝 수동 레벨 할당기", layout="wide")
-st.title("📝 수동 레벨 할당기")
+st.set_page_config(page_title="📝 수동 레벨 할당", layout="wide")
+st.title("📝 수동 레벨 할당")
 
 uploaded = st.file_uploader("CSV 파일을 업로드해주세요 (total_lessonExp 포함)", type=["csv"])
 

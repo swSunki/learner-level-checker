@@ -5,8 +5,8 @@ import pickle
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.cluster import KMeans
 
-st.set_page_config(page_title="📊 레벨 비교기", layout="wide")
-st.title("📊 수동 vs 자동 레벨 비교기")
+st.set_page_config(page_title="📊 레벨 비교", layout="wide")
+st.title("📊 수동 vs 자동 레벨 비교")
 
 uploaded = st.file_uploader("수동 레벨이 포함된 CSV 업로드 (manual_level_4feat 포함)", type=["csv"])
 
