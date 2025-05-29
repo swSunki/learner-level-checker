@@ -1,8 +1,8 @@
 
 import streamlit as st
 
-st.set_page_config(page_title="📊 학습자 레벨 평가 앱", layout="wide")
-st.title("📊 학습자 레벨 평가 앱")
+st.set_page_config(page_title="📊 학습자 레벨 평가", layout="wide")
+st.title("📊 학습자 레벨 평가")
 
 st.markdown("""
 이 앱은 총 2단계로 구성됩니다:
